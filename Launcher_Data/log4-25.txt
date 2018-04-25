@@ -1,0 +1,13 @@
+-OS:Win32NT-version: Microsoft Windows NT 6.1.7601.0-Graphics Card:NVIDIA GeForce GTX 1080 Ti-Graphics Size:11136-Processor:Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz-Memory:16299-Log: Version File Download started... |Time: 2:12:20 AM Wednesday, April 25, 2018
+-OS:Win32NT-version: Microsoft Windows NT 6.1.7601.0-Graphics Card:NVIDIA GeForce GTX 1080 Ti-Graphics Size:11136-Processor:Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz-Memory:16299-Log: Getting News Text |Time: 2:12:20 AM Wednesday, April 25, 2018
+-OS:Win32NT-version: Microsoft Windows NT 6.1.7601.0-Graphics Card:NVIDIA GeForce GTX 1080 Ti-Graphics Size:11136-Processor:Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz-Memory:16299-Log: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /upload/version.flamacore was not found on this server.</p>
+<hr>
+<address>Apache/2.2.22 (Debian) Server at www.fight-arena.de Port 80</address>
+</body></html>
+404 Not Found |Time: 2:12:21 AM Wednesday, April 25, 2018
+-OS:Win32NT-version: Microsoft Windows NT 6.1.7601.0-Graphics Card:NVIDIA GeForce GTX 1080 Ti-Graphics Size:11136-Processor:Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz-Memory:16299-Log: Got the news text. |Time: 2:12:21 AM Wednesday, April 25, 2018
